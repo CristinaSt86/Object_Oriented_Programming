@@ -5,7 +5,8 @@ class masinaDeCurse extends Masina {
       marca,
       model,
       culoare,
-      kilometraj
+      kilometraj,
+      pozitiaInCampionat
     ) {
       super(marca,model,culoare,kilometraj)};
       

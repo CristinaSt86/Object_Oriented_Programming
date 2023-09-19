@@ -14,8 +14,8 @@ function main(){
 main();
   
 function instanteazaMasiniCurse(){
-    const masinaDeCurse1 = new masinaDeCurse("Toyota", "Turbo", "rosu", 100.000);
-    const masinaDeCurse2 = new masinaDeCurse("Ferrari", "SF90 Stradale", "galben", 90.000);
+    const masinaDeCurse1 = new masinaDeCurse("Toyota", "Turbo", "rosu", 100.000 , 2);
+    const masinaDeCurse2 = new masinaDeCurse("Ferrari", "SF90 Stradale", "galben", 90.000, -2);
    
 
 masinaDeCurse1.getProprietati();

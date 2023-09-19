@@ -7,13 +7,15 @@ class Masina{
     };
         getProprietati = function(){
         console.log(`Masina 
-           [marca = ${this.marca};
-            model = ${this.model};
-            culoare = ${this.culoare};
-            kilometraj = ${this.kilometraj};] `) 
+           [marca = ${this.marca},
+            model = ${this.model},
+            culoare = ${this.culoare},
+            kilometraj = ${this.kilometraj},] `) 
     };
  };
  
-
+// get proprietati(){
+//     return
+// }
 
 export default Masina;
